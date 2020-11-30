@@ -28,6 +28,6 @@ For this exercise, I learned to use the bulma framework.
 
 # What does it look like ? [:mouse:](https://www.youtube.com/watch?v=SSQ6okg0GIw)
 you can click to see the incredible result
-[![Preview](https://raw.githubusercontent.com/Bruxellesflorian/leaving_the_field/master/preview.PNG)](https://bruxellesflorian.github.io/leaving_the_field/)
+[![Preview](https://raw.githubusercontent.com/Bruxellesflorian/leaving_the_field/master/preview.PNG)](https://bruxellesflorian.github.io/collection/)
 [:rat:](https://www.youtube.com/watch?v=I1EFYiVKcok&ab_channel=GameIntros%26FinalesGameIntros%26Finales)
 [:rat:](https://www.youtube.com/watch?v=JSxznHwDdwM&ab_channel=DrDisRespectDrDisRespectValid%C3%A9)
